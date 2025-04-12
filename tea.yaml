@@ -4,3 +4,5 @@ version: 1.0.0
 codeOwners:
   - '0x389adAA43F9dC42Ed9De1EcCFd8475390Ed1e9f6'
 quorum: 1
+repository: 'https://github.com/memycrazyworld/cryptobeacon'
+description: 'A JavaScript library providing mathematical operations and utilities'
