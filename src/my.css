@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.container{
+    max-width: 600px;
+    width: 100%;
+}
+body{
+    background-color: #1f1e1e;
+    color: white;
+    overflow: hidden;
+}
+.box{
+    background-color: #353434;
+    margin: 3% auto;
+    padding: 10px; 
+    max-height: 95vh;
+
+}
+.btn2-c{
+    background-color: aliceblue;
+}
+
+.btn1-c:hover{
+    background-color: red
+}
+.active{
+    background-color: green;
+    color: white;
+}
+
+.btn-group{
+    cursor: pointer;
+}
+
+.todo-list-item{
+    padding: 10px;
+    margin-top: 10px;
+    padding-left: 20px;
+    color: black;    
+    color: rgb(161, 161, 161);
+    background-color: #414040;
+    box-shadow: 0px 3px 5px rgb(232, 227, 227);
+}
+.todo-list-item h3{
+    font-weight: bold;
+    color: rgb(51, 207, 51);
+}
+
+.todo-list-item p{
+    font-size: 15px;
+    margin-top: 8px;
+}
+.icons i{
+    font-size: 25px;
+    padding-left: 10px ;
+    
+} 
+
+.add-btn{
+    background-color: rgb(99, 253, 3);
+}
+
+.check-item{
+    color: rgb(50, 195, 50);
+}
+.check-item:hover{
+    color: green;
+}
+.delete:hover{
+    color: red;
+}
